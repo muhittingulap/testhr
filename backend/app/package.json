@@ -1,0 +1,24 @@
+{
+  "name": "testhr",
+  "version": "1.0.0",
+  "description": "TestHR example project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muhittingulap/testhr.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "mongodb"
+  ],
+  "author": "Muhittin GÜLAP",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muhittingulap/testhr/issues"
+  },
+  "homepage": "https://github.com/muhittingulap/testhr#readme"
+}
