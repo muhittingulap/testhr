@@ -1,2 +1,5 @@
-# testhr
-Test HR projesi örnek
+## TestHR
+- TestHR
+
+## Backend
+- Informations
